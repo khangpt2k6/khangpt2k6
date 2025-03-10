@@ -105,11 +105,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=khangpt2k6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🔝 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=khangpt2k6&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangpt2k6&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
