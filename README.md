@@ -115,13 +115,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangpt2k6&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khangpt2k6&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div align="center">
   <p>Thanks for visiting! Feel free to check out my repositories and don't hesitate to reach out! 👇</p>
-  <img src="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
