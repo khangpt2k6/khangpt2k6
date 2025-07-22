@@ -9,13 +9,13 @@
   </div>
 </div>
 
-## 🧑‍💻 About Me
-- 🔭 I'm currently working on expanding my development skills
-- 🌱 Learning new technologies and frameworks
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about full-stack development
+## About Me
+- I'm currently working on expanding my development skills
+- earning new technologies and frameworks
+- Looking to collaborate on innovative projects
+- Ask me about full-stack development
 
-## 🌐 Connect With Me
+## Connect With Me
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100078998434458">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
@@ -28,7 +28,7 @@
   </a>
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <details>
   <summary>Languages</summary>
