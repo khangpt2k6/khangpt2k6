@@ -9,7 +9,7 @@
 </div>
 
 ## About Me
-** Full Stack Developer & Computer Science Student at USF **
+**Full Stack Developer & Computer Science Student at USF**
 
 
 ## Connect With Me
