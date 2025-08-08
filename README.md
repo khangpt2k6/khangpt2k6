@@ -1,12 +1,9 @@
-<!-- HEADER TITLE -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Khang!+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+# <div align="center">Hi, I'm Khang! </div>
 
-<!-- HERO ANIMATION -->
-<p align="center">
-  <img src="https://i.ibb.co/zPjzXc8/space-banner.gif" width="100%" alt="Banner Animation"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud+%26+DevOps+Architecture+%F0%9F%94%A7" alt="Typing SVG" />
+</div>
+
 
 ---
 
