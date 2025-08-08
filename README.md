@@ -34,7 +34,7 @@
   <a href="mailto:2006tuankhang@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
-  <a href="[https://github.com/khangpt2k6](https://portfoliokhang.vercel.app/)" target="_blank">
+  <a href="https://portfoliokhang.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Portfolio" />
   </a>
 </div>
