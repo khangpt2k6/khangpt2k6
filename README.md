@@ -4,19 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;DevOps+Enthusiast+%F0%9F%94%A7;Innovation+Builder+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,2,25,30&height=100&section=header&text=&fontSize=0&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/khangpt2k6?label=Followers&style=for-the-badge&color=00D4FF&labelColor=1a1b27" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=khangpt2k6&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/khangpt2k6?style=for-the-badge&color=00D4FF&labelColor=1a1b27" alt="GitHub Stars" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangpt2k6&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak"/>
-</div>
 
 ---
 
