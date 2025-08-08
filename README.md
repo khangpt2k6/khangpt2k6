@@ -18,14 +18,6 @@
 
 - I'm a passionate technology enthusiast who loves building **scalable applications** and exploring **cutting-edge technologies**. From crafting beautiful user interfaces to architecting robust backend systems, I enjoy every aspect of software development.
 
-🎯 **Always learning, always building, always innovating!**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangpt2k6&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
 
 <div align="center">
