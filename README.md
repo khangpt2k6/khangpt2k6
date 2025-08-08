@@ -18,14 +18,16 @@
 
 - I'm a passionate technology enthusiast who loves building **scalable applications** and exploring **cutting-edge technologies**. From crafting beautiful user interfaces to architecting robust backend systems, I enjoy every aspect of software development.
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100078998434458" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode" />
   </a>
   <a href="mailto:2006tuankhang@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
@@ -34,7 +36,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Portfolio" />
   </a>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,2,25,30&height=2&section=header&text=&fontSize=0"/>
 </div>
