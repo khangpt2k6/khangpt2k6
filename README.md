@@ -31,10 +31,6 @@
   <a href="https://portfoliokhang.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-</td>
-</tr>
-</table>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,2,25,30&height=2&section=header"/>
 </p>
