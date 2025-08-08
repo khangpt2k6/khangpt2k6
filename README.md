@@ -47,9 +47,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,cs,c,html,css,latex&theme=dark&perline=11" alt="Programming Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangpt2k6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="Top Languages"/>
-</div>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Development
 <div align="center">
