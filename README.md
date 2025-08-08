@@ -78,6 +78,7 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman&theme=dark" alt="Tools"/>
 </div>
 
+---
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Thank you animation"/>
 </div>
