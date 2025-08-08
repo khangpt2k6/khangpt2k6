@@ -8,15 +8,15 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
 </div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-
-**Full Stack Developer & Technology Enthusiast**
-
-- I'm a passionate technology enthusiast who loves building **scalable applications** and exploring **cutting-edge technologies**. From crafting beautiful user interfaces to architecting robust backend systems, I enjoy every aspect of software development.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+Full Stack Developer & Technology Enthusiast
+🌟 I'm a passionate technology enthusiast who loves building scalable applications and exploring cutting-edge technologies.
+💡 From crafting beautiful user interfaces to architecting robust backend systems, I enjoy every aspect of software development.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
 <div align="center">
