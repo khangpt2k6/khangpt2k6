@@ -144,19 +144,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 </div>
-
-<div align="center">
-  <p>
-    <em>💼 Open for collaboration • 🌟 Let's build something amazing together! • 📧 Always happy to connect</em>
-  </p>
-  
-  <p>
-    <strong>⭐ Don't forget to star some repositories if you find them interesting!</strong>
-  </p>
-</div>
-
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/khangpt2k6">Khang Phan</a></sub>
-</div>
