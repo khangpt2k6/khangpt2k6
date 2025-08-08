@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Khang!
+#  Hi, I'm Khang!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;DevOps+Enthusiast+%F0%9F%94%A7" alt="Typing SVG" />
@@ -12,19 +12,13 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔥 **Passionate Full Stack Developer & Computer Science Student at USF**
+**Full Stack Developer**
 
 🌟 I'm a technology enthusiast who loves building scalable applications and exploring cutting-edge technologies. From crafting beautiful user interfaces to architecting robust backend systems, I enjoy every aspect of software development.
-
-- 🚀 Currently diving deep into **Cloud Architecture** and **Microservices**
-- 🎓 Computer Science Student at **University of South Florida**
-- 💡 Always eager to learn new technologies and best practices
-- 🤝 Open to collaborating on interesting projects
-- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed!
 
 ---
 
