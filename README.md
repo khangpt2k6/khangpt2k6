@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Technical Skills
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -138,89 +138,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </div>
 </details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khangpt2k6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangpt2k6&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangpt2k6&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangpt2k6&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khangpt2k6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💡 Current Focus
-
-```javascript
-const khang = {
-    pronouns: "he/him",
-    location: "Tampa, Florida 🌴",
-    education: "Computer Science @ USF",
-    currentFocus: [
-        "Cloud Architecture & Microservices",
-        "DevOps & Infrastructure as Code", 
-        "Machine Learning & AI Integration",
-        "Performance Optimization"
-    ],
-    funFact: "I can debug faster with console.log than with actual debuggers 🐛",
-    askMeAbout: [
-        "Full Stack Development",
-        "Cloud Solutions",
-        "System Design",
-        "Best Practices"
-    ]
-};
-```
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/khangpt2k6/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangpt2k6&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/khangpt2k6/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangpt2k6&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Microservices with Docker and Kubernetes
-- ☁️ Mastering Azure DevOps: CI/CD Best Practices  
-- 💡 Full Stack Development: From Concept to Deployment
-- 🔧 Optimizing React Applications for Production
-- 📊 Data Visualization with D3.js and React
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</div>
 
 ---
 
