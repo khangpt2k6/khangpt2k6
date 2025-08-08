@@ -80,18 +80,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khangpt2k6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=khangpt2k6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" alt="WakaTime Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khangpt2k6&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Latest Activity
 
