@@ -81,7 +81,6 @@
 ---
 
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Latest Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
