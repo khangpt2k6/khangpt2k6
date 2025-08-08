@@ -1,7 +1,7 @@
 # <div align="center">🚀 Hi, I'm Khang! 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;DevOps+Enthusiast+%F0%9F%94%A7;Innovation+Builder+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud & DevOps+Architecture+%F0%9F%94%A7 alt="Typing SVG" />
 </div>
 
 
