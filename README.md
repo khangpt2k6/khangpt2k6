@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100078998434458" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/KHcqTUn9ld/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="mailto:2006tuankhang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://portfoliokhang.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
