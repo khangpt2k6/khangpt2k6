@@ -42,35 +42,11 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,cs,c,html,css,latex&theme=dark&perline=11" />
-</div>
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Development
-<div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,vite&theme=dark" />
-</div>
-
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> Backend Development
-<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,graphql&theme=dark" />
-</div>
-
-### <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> Databases & Storage
-<div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" />
-</div>
-
-### <img src="https://media.giphy.com/media/Ri7d8I18cto2c/giphy.gif" width="30"> Cloud & Infrastructure
-<div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify&theme=dark" />
-</div>
-
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> DevOps & CI/CD
-<div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions&theme=dark" />
-</div>
-
-### <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"> Development Tools
-<div align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman&theme=dark" />
 </div>
 
