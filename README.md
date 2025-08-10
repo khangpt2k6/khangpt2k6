@@ -41,13 +41,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technical Skills & Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,cs,c,html,css,latex&theme=dark&perline=11" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,vite&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet,graphql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,c,html,css&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman&theme=dark" />
 </div>
 
 ---
