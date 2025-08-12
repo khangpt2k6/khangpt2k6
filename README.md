@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100078998434458" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/KHcqTUn9ld/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/KHcqTUn9ld/" target="_blank"><img src="[https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw1qLa-AyYXnTR7cBp9DV7og&ust=1755128866640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCYsP_Hho8DFQAAAAAdAAAAABAE)"/></a>
   <a href="mailto:2006tuankhang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://portfoliokhang.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
