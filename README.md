@@ -16,9 +16,9 @@
 <td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me  
-🌟 Full Stack Developer & Technology Enthusiast  
-💡 Passionate about building **scalable applications** and exploring **cutting-edge technologies**.  
-🚀 Love crafting **beautiful UI** & **robust backend systems**.
+1. Full Stack Developer & Technology Enthusiast
+2. Building **scalable applications** and exploring **cutting-edge technologies**.  
+3. Love crafting **beautiful UI** & **robust backend systems**.
 
 ---
 
