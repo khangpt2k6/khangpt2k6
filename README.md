@@ -48,15 +48,6 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=00F5FF&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+🚀;Always+open+to+collaborate!+✨" alt="Footer Typing"/>
-</p>
-
-
-<p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Thanks Animation"/>
 </p>
 <p align="center">
