@@ -15,10 +15,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me  
-1. Full Stack Developer & Technology Enthusiast
-2. Building **scalable applications** and exploring **cutting-edge technologies**.  
-3. Love crafting **beautiful UI** & **robust backend systems**.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me:
+CS Honors USF - <make something funny here for me> 
 
 ---
 
