@@ -1,12 +1,10 @@
 # <div align="center">Hi, I'm Khang! </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Cloud+%26+DevOps+Architecture+%F0%9F%94%A7" alt="Typing SVG" />
 </div>
 
 
 ## About Me
-
 **CS Honors @ USF** - *Debugging my way through life, one semicolon at a time* 
 
 I’m a full-stack dev who likes building apps and messing with cloud stuff. When I’m not coding, you’ll catch me grinding on LeetCode (or may be I'm sleeping). 
