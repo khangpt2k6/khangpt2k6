@@ -20,30 +20,12 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
 </p>
 
 
-## Technical Skills & Languages
-
-**Languages**
+## Tech Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,c,html,css&theme=dark&perline=9" />
-</div>
-
-**Frontend**
-<div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" />
-</div>
-
-**Backend**
-<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,spring,dotnet&theme=dark" />
-</div>
-
-**Databases**
-<div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,supabase&theme=dark" />
-</div>
-
-**Cloud & DevOps**
-<div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions&theme=dark" />
 </div>
 
