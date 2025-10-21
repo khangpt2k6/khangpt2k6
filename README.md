@@ -12,20 +12,29 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
 ## Connect With Me  
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100078998434458" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/KHcqTUn9ld/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:2006tuankhang@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
+
+  <!-- Portfolio (GitHub logo as placeholder) -->
   <a href="https://portfoliokhang.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 </p>
 
