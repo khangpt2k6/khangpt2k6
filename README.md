@@ -46,7 +46,3 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions&theme=dark" />
 </div>
 
-------
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-</p>
