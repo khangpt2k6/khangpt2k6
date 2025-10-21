@@ -9,9 +9,7 @@
 
 I’m a full-stack dev who likes building apps and messing with cloud stuff. When I’m not coding, you’ll catch me grinding on LeetCode (or may be I'm sleeping). 
 
-## Connect With Me  
-
-  <!-- LinkedIn -->
+## Connect With Me   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
@@ -35,6 +33,7 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
   <a href="https://portfoliokhang.vercel.app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
+
 
 
 
