@@ -11,7 +11,6 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
 
 ## Connect With Me  
 
-<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
@@ -36,7 +35,6 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
   <a href="https://portfoliokhang.vercel.app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
-</p>
 
 
 
