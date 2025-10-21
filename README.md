@@ -33,6 +33,3 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&lines=Let's+build+something+amazing+together!+🚀;Always+open+to+collaborate+on+exciting+projects!+✨;Feel+free+to+reach+out+anytime!+📧" alt="Footer Typing"/>
-</p>
