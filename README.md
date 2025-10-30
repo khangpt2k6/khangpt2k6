@@ -29,10 +29,6 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Portfolio (GitHub logo as placeholder) -->
-  <a href="https://portfoliokhang.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
 
 
 
