@@ -7,8 +7,6 @@
 ## About Me
 **CS Honors @ USF** - *Debugging my way through life, one semicolon at a time* 
 
-I’m a full-stack dev who likes building apps and messing with cloud stuff. When I’m not coding, you’ll catch me grinding on LeetCode (or may be I'm sleeping). 
-
 ## Connect With Me   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
@@ -28,10 +26,6 @@ I’m a full-stack dev who likes building apps and messing with cloud stuff. Whe
   <a href="mailto:2006tuankhang@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
-
-
-
-
 
 ## Tech Skills
 <div align="center">
