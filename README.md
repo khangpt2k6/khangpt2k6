@@ -1,8 +1,5 @@
-# <div align="center">Hey guys! </div>
-
-
-## About Me
-**CS Honors @ USF** - *Debugging my way through life, one semicolon at a time* 
+## Hey guys, welcome to my Github! 
+Student of **CS Honors @ USF** - *Debugging my way through life, one semicolon at a time* 
 
 ## Connect With Me   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
