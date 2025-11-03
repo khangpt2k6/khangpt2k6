@@ -27,6 +27,11 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
 
+  <!-- Portfolio -->
+  <a href="https://portfoliokhang.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40" alt="Portfolio"/>
+  </a>
+
 ## Tech Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,c,html,css&theme=dark&perline=9" />
