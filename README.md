@@ -1,4 +1,4 @@
-## Hey guys, welcome to my Github! 
+## Hey guys, welcome to my GitHub! 
 Student of **CS Honors @ USF** - *Debugging my way through life, one semicolon at a time* 
 
 ## Connect With Me   <!-- LinkedIn -->
