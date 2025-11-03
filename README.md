@@ -24,7 +24,7 @@
 
   <!-- Gmail -->
   <a href="mailto:2006tuankhang@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
 
 ## Tech Skills
