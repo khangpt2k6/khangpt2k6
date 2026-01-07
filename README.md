@@ -1,5 +1,4 @@
 ## Hey guys, welcome to my GitHub! 
-Student of **CS Honors @ USF** - *Debugging my way through life, one semicolon at a time* 
 
 ## Connect With Me   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
