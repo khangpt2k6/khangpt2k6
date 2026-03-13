@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Khang, or Kevin 👋
+  # Hi there, I'm Tuan Khang, or Kevin 👋
 
   ### Software Developer | Tech Enthusiast
 
