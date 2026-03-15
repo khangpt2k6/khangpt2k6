@@ -18,8 +18,10 @@
   <a href="mailto:2006tuankhang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://tuka21.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-  <br/>
   <br/>
 
   <h3>🛠️ Technical Skills</h3>
