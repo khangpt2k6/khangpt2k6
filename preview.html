@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Profile Preview — khangpt2k6</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0d1117;
+    color: #c9d1d9;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* Header banner */
+  .header-banner img {
+    width: 100%;
+    display: block;
+  }
+
+  /* Center blocks */
+  .center { text-align: center; }
+
+  /* Social badges */
+  .badges { margin: 0 0 12px; }
+  .badges a {
+    text-decoration: none;
+    display: inline-block;
+    margin: 3px 4px;
+    transition: transform 0.2s ease, filter 0.2s ease;
+  }
+  .badges a:hover {
+    transform: translateY(-3px);
+    filter: brightness(1.15);
+  }
+  .badges img { height: 35px; vertical-align: middle; border-radius: 6px; }
+
+  /* Section headings */
+  h2 {
+    font-size: 1.35em;
+    font-weight: 600;
+    color: #c9d1d9;
+    border-bottom: 1px solid #21262d;
+    padding-bottom: 8px;
+    margin: 32px 0 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  h2 img { vertical-align: middle; }
+
+  /* YAML code block */
+  .code-block {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 16px 20px;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.88em;
+    color: #c9d1d9;
+    overflow-x: auto;
+    line-height: 1.7;
+    margin-bottom: 8px;
+  }
+  .code-block .key { color: #7ee787; }
+  .code-block .str { color: #a5d6ff; }
+  .code-block .comment { color: #8b949e; }
+  .code-block .bullet { color: #f0883e; }
+
+  /* Tech stack table */
+  .tech-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  .tech-table th,
+  .tech-table td {
+    border: 1px solid #30363d;
+    padding: 10px 14px;
+    text-align: left;
+    vertical-align: middle;
+  }
+  .tech-table th {
+    background: #161b22;
+    color: #c9d1d9;
+    font-weight: 600;
+    font-size: 0.9em;
+  }
+  .tech-table td:first-child {
+    background: #161b22;
+    font-weight: 600;
+    white-space: nowrap;
+    width: 120px;
+    font-size: 0.9em;
+  }
+  .tech-table td img {
+    height: 22px;
+    margin: 2px 3px;
+    vertical-align: middle;
+  }
+
+  /* Stats row */
+  .stats-row {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin: 8px 0;
+  }
+  .stats-row img {
+    height: 180px;
+    max-width: 100%;
+  }
+
+  /* Full-width images */
+  .full-img {
+    margin: 8px 0;
+    text-align: center;
+  }
+  .full-img img {
+    max-width: 95%;
+    width: 95%;
+  }
+
+  /* Streak */
+  .streak-section { text-align: center; margin: 8px 0; }
+  .streak-section img { max-width: 500px; width: 100%; }
+
+  /* Profile views */
+  .views { text-align: center; margin: 24px 0 8px; }
+  .views img { height: 28px; }
+
+  /* Footer */
+  .footer-banner img { width: 100%; display: block; }
+
+  /* Spacer */
+  .spacer { height: 16px; }
+
+  /* Snake placeholder */
+  .snake-section {
+    text-align: center;
+    margin: 8px 0;
+    padding: 30px 20px;
+    border: 1px dashed #30363d;
+    border-radius: 8px;
+    background: #161b2208;
+    color: #8b949e;
+    font-size: 0.9em;
+  }
+  .snake-section span { color: #58a6ff; }
+
+  /* Mock stats cards */
+  .mock-card {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 20px 24px;
+    min-width: 300px;
+    max-width: 400px;
+    flex: 1;
+  }
+  .mock-card h3 {
+    color: #58a6ff;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin: 0 0 16px 0;
+    border: none;
+    padding: 0;
+  }
+  .mock-card .stat-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 8px 0;
+    font-size: 0.85em;
+  }
+  .mock-card .stat-row .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .mock-card .stat-row .label { color: #8b949e; flex: 1; }
+  .mock-card .stat-row .value { color: #c9d1d9; font-weight: 600; }
+
+  /* Mock streak card */
+  .mock-streak {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 24px 32px;
+    display: inline-flex;
+    gap: 40px;
+    text-align: center;
+  }
+  .mock-streak .streak-item .num {
+    font-size: 1.6em;
+    font-weight: 700;
+    color: #c9d1d9;
+  }
+  .mock-streak .streak-item .lbl {
+    font-size: 0.75em;
+    color: #8b949e;
+    margin-top: 2px;
+  }
+  .mock-streak .streak-item.current .num { color: #58a6ff; }
+
+  /* Mock activity graph */
+  .mock-graph {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 20px 24px;
+    max-width: 95%;
+    margin: 0 auto;
+  }
+  .mock-graph h3 {
+    color: #8b949e;
+    font-size: 0.75em;
+    font-weight: 400;
+    margin: 0 0 12px;
+    border: none;
+    padding: 0;
+  }
+  .mock-graph-bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    height: 100px;
+  }
+  .mock-graph-bars .bar {
+    flex: 1;
+    background: linear-gradient(to top, #58a6ff22, #58a6ff);
+    border-radius: 2px 2px 0 0;
+    min-width: 4px;
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER BANNER -->
+<div class="header-banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Khang%20(Kevin)%20Phan&fontSize=42&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20University%20of%20South%20Florida&descSize=18&descColor=8b949e&descAlignY=55" alt="Header" />
+</div>
+
+<div class="container">
+
+  <!-- SOCIAL BADGES -->
+  <div class="center badges">
+    <a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    </a>
+    <a href="https://tuka21.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=58a6ff" />
+    </a>
+    <a href="https://leetcode.com/u/KHcqTUn9ld/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=FFA116" />
+    </a>
+    <a href="mailto:2006tuankhang@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    </a>
+  </div>
+
+  <div class="spacer"></div>
+
+  <!-- ABOUT ME -->
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> About Me
+  </h2>
+  <div style="display:flex;gap:28px;align-items:center;border:1px solid #30363d;border-radius:8px;padding:24px;background:#161b22">
+    <div style="text-align:center;min-width:150px">
+      <img src="https://github.com/khangpt2k6.png" width="140" style="border-radius:50%;border:3px solid #30363d" />
+    </div>
+    <div style="flex:1;font-size:1em;line-height:2.2">
+      <div>📍 <strong>Tampa, FL</strong></div>
+      <div>🎓 <strong>University of South Florida</strong></div>
+      <div>🚀 <strong>Full-Stack Development &amp; Cloud Architecture</strong></div>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+
+  <!-- TECH STACK -->
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Tech Stack
+  </h2>
+  <table class="tech-table">
+    <tbody>
+      <tr>
+        <td><strong>Languages</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=ts,python,js,java,go,cpp&theme=dark" height="40" /></td>
+      </tr>
+      <tr>
+        <td><strong>AI / ML</strong></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="40" />
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+          <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Frontend</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" height="40" /></td>
+      </tr>
+      <tr>
+        <td><strong>Backend</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,spring,graphql,express&theme=dark" height="40" /></td>
+      </tr>
+      <tr>
+        <td><strong>Data</strong></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,elasticsearch&theme=dark" height="40" />
+          <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="30" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Cloud & Infra</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions&theme=dark" height="40" /></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="spacer"></div>
+
+  <!-- GITHUB ANALYTICS -->
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> GitHub Analytics
+  </h2>
+
+  <div class="stats-row">
+    <!-- Mock GitHub Stats Card -->
+    <div class="mock-card">
+      <h3>khangpt2k6's GitHub Stats</h3>
+      <div class="stat-row"><span class="dot" style="background:#58a6ff"></span><span class="label">Total Stars Earned</span><span class="value">--</span></div>
+      <div class="stat-row"><span class="dot" style="background:#3fb950"></span><span class="label">Total Commits (2026)</span><span class="value">--</span></div>
+      <div class="stat-row"><span class="dot" style="background:#f0883e"></span><span class="label">Total PRs</span><span class="value">--</span></div>
+      <div class="stat-row"><span class="dot" style="background:#da3633"></span><span class="label">Total Issues</span><span class="value">--</span></div>
+      <div class="stat-row"><span class="dot" style="background:#8b949e"></span><span class="label">Contributed to</span><span class="value">--</span></div>
+    </div>
+    <!-- Mock Top Languages Card -->
+    <div class="mock-card">
+      <h3>Most Used Languages</h3>
+      <div style="margin-top:8px">
+        <div style="display:flex;gap:3px;height:10px;border-radius:5px;overflow:hidden;margin-bottom:14px">
+          <div style="background:#f1e05a;flex:28"></div>
+          <div style="background:#3178c6;flex:24"></div>
+          <div style="background:#3572A5;flex:16"></div>
+          <div style="background:#b07219;flex:12"></div>
+          <div style="background:#00ADD8;flex:8"></div>
+          <div style="background:#e34c26;flex:7"></div>
+          <div style="background:#563d7c;flex:5"></div>
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:10px 18px;font-size:0.8em">
+          <span><span class="dot" style="background:#f1e05a;width:8px;height:8px;border-radius:50%;display:inline-block"></span> JavaScript</span>
+          <span><span class="dot" style="background:#3178c6;width:8px;height:8px;border-radius:50%;display:inline-block"></span> TypeScript</span>
+          <span><span class="dot" style="background:#3572A5;width:8px;height:8px;border-radius:50%;display:inline-block"></span> Python</span>
+          <span><span class="dot" style="background:#b07219;width:8px;height:8px;border-radius:50%;display:inline-block"></span> Java</span>
+          <span><span class="dot" style="background:#00ADD8;width:8px;height:8px;border-radius:50%;display:inline-block"></span> Go</span>
+          <span><span class="dot" style="background:#e34c26;width:8px;height:8px;border-radius:50%;display:inline-block"></span> HTML</span>
+          <span><span class="dot" style="background:#563d7c;width:8px;height:8px;border-radius:50%;display:inline-block"></span> CSS</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+
+  <!-- Mock Streak Stats -->
+  <div class="center">
+    <div class="mock-streak">
+      <div class="streak-item"><div class="num">--</div><div class="lbl">Total Contributions</div></div>
+      <div class="streak-item current"><div class="num">--</div><div class="lbl">Current Streak</div></div>
+      <div class="streak-item"><div class="num">--</div><div class="lbl">Longest Streak</div></div>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+
+  <!-- Mock Activity Graph -->
+  <div class="mock-graph">
+    <h3>Contribution Graph</h3>
+    <div class="mock-graph-bars">
+      <div class="bar" style="height:30%"></div><div class="bar" style="height:55%"></div><div class="bar" style="height:40%"></div>
+      <div class="bar" style="height:70%"></div><div class="bar" style="height:45%"></div><div class="bar" style="height:60%"></div>
+      <div class="bar" style="height:35%"></div><div class="bar" style="height:80%"></div><div class="bar" style="height:50%"></div>
+      <div class="bar" style="height:65%"></div><div class="bar" style="height:90%"></div><div class="bar" style="height:40%"></div>
+      <div class="bar" style="height:55%"></div><div class="bar" style="height:75%"></div><div class="bar" style="height:30%"></div>
+      <div class="bar" style="height:85%"></div><div class="bar" style="height:60%"></div><div class="bar" style="height:45%"></div>
+      <div class="bar" style="height:70%"></div><div class="bar" style="height:50%"></div><div class="bar" style="height:95%"></div>
+      <div class="bar" style="height:40%"></div><div class="bar" style="height:65%"></div><div class="bar" style="height:55%"></div>
+      <div class="bar" style="height:80%"></div><div class="bar" style="height:35%"></div><div class="bar" style="height:60%"></div>
+      <div class="bar" style="height:50%"></div><div class="bar" style="height:75%"></div><div class="bar" style="height:45%"></div>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+
+  <!-- SNAKE (placeholder — needs GitHub Actions to generate) -->
+  <div class="snake-section">
+    <span>Snake Contribution Animation</span><br/>
+    This will appear after you set up the GitHub Actions workflow and push.<br/>
+    The snake eats your contribution grid — it looks awesome!
+  </div>
+
+  <div class="spacer"></div>
+
+  <!-- PROFILE VIEWS -->
+  <div class="views">
+    <img src="https://komarev.com/ghpvc/?username=khangpt2k6&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </div>
+
+</div>
+
+<!-- FOOTER BANNER -->
+<div class="footer-banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" alt="Footer" />
+</div>
+
+</body>
+</html>
