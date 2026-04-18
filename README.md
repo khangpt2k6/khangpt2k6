@@ -32,7 +32,13 @@
 
 </div>
 
-<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
 
@@ -55,12 +61,3 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/khangpt2k6/khangpt2k6/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
