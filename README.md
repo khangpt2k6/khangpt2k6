@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Khang%20(Kevin)%20Phan&fontSize=42&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20University%20of%20South%20Florida&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
 
@@ -17,19 +16,8 @@
 
 </div>
 
-<br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-📍 **Tampa, FL**
-
-🎓 **University of South Florida**
-
-🚀 **Full-Stack Development & Cloud Architecture**
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
