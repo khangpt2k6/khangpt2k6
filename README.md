@@ -7,9 +7,6 @@
 <a href="https://tuka21.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" style="border-radius:50px" />
 </a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/KHcqTUn9ld/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" style="border-radius:50px" />
-</a>&nbsp;&nbsp;
 <a href="mailto:2006tuankhang@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" style="border-radius:50px" />
 </a>
