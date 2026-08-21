@@ -1,26 +1,22 @@
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tuankhangphan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" style="border-radius:50px" />
+<a href="https://www.linkedin.com/in/tuankhangphan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
 </a>&nbsp;&nbsp;
-<a href="https://tuka21.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" style="border-radius:50px" />
+<a href="https://tuka21.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" />
 </a>&nbsp;&nbsp;
 <a href="mailto:2006tuankhang@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" style="border-radius:50px" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
 </a>
 
 </div>
-
-
-
 
 <div align="center">
 
 | | |
 |:-:|:-:|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,python,js,java,go,cpp&theme=dark" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,py,js,java,go,cpp&theme=dark" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,spring,graphql,express&theme=dark" /> |
@@ -37,11 +33,11 @@
   </picture>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khangpt2k6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khangpt2k6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khangpt2k6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangpt2k6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 </div>
 
 <br/>
@@ -55,6 +51,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangpt2k6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%" />
 </div>
-
-<br/>
-
